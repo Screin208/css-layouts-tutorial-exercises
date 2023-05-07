@@ -21,11 +21,16 @@ body {
 }
 
 header,
-nav,
+nav {
+	padding: 10px;
+}
+,
 section {
 	border: 1px solid rgba(255, 255, 255, 0.8);
 	margin-bottom: 10px;
 	border-radius: 3px;
+	width: 80%;
+	padding: 10px;
 }
 
 header {
